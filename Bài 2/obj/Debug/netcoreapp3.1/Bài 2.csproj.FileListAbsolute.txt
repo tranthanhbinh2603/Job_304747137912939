@@ -1,0 +1,13 @@
+D:\Data\Project\Job_304747137912939\Bài 2\bin\Debug\netcoreapp3.1\Bài 2.exe
+D:\Data\Project\Job_304747137912939\Bài 2\bin\Debug\netcoreapp3.1\Bài 2.deps.json
+D:\Data\Project\Job_304747137912939\Bài 2\bin\Debug\netcoreapp3.1\Bài 2.runtimeconfig.json
+D:\Data\Project\Job_304747137912939\Bài 2\bin\Debug\netcoreapp3.1\Bài 2.runtimeconfig.dev.json
+D:\Data\Project\Job_304747137912939\Bài 2\bin\Debug\netcoreapp3.1\Bài 2.dll
+D:\Data\Project\Job_304747137912939\Bài 2\bin\Debug\netcoreapp3.1\Bài 2.pdb
+D:\Data\Project\Job_304747137912939\Bài 2\obj\Debug\netcoreapp3.1\Bài 2.csprojAssemblyReference.cache
+D:\Data\Project\Job_304747137912939\Bài 2\obj\Debug\netcoreapp3.1\Bài 2.AssemblyInfoInputs.cache
+D:\Data\Project\Job_304747137912939\Bài 2\obj\Debug\netcoreapp3.1\Bài 2.AssemblyInfo.cs
+D:\Data\Project\Job_304747137912939\Bài 2\obj\Debug\netcoreapp3.1\Bài 2.csproj.CoreCompileInputs.cache
+D:\Data\Project\Job_304747137912939\Bài 2\obj\Debug\netcoreapp3.1\Bài 2.dll
+D:\Data\Project\Job_304747137912939\Bài 2\obj\Debug\netcoreapp3.1\Bài 2.pdb
+D:\Data\Project\Job_304747137912939\Bài 2\obj\Debug\netcoreapp3.1\Bài 2.genruntimeconfig.cache

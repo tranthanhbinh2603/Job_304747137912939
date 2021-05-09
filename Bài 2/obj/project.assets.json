@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Data\\Project\\Job_304747137912939\\Job_304747137912939\\Bài 1.csproj",
-      "projectName": "Bài 1",
-      "projectPath": "D:\\Data\\Project\\Job_304747137912939\\Job_304747137912939\\Bài 1.csproj",
+      "projectUniqueName": "D:\\Data\\Project\\Job_304747137912939\\Bài 2\\Bài 2.csproj",
+      "projectName": "Bài 2",
+      "projectPath": "D:\\Data\\Project\\Job_304747137912939\\Bài 2\\Bài 2.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Data\\Project\\Job_304747137912939\\Job_304747137912939\\obj\\",
+      "outputPath": "D:\\Data\\Project\\Job_304747137912939\\Bài 2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

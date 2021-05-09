@@ -1,0 +1,12 @@
+D:\Data\Project\Job_304747137912939\Job_304747137912939\bin\Debug\netcoreapp3.1\Bài 1.exe
+D:\Data\Project\Job_304747137912939\Job_304747137912939\bin\Debug\netcoreapp3.1\Bài 1.deps.json
+D:\Data\Project\Job_304747137912939\Job_304747137912939\bin\Debug\netcoreapp3.1\Bài 1.runtimeconfig.json
+D:\Data\Project\Job_304747137912939\Job_304747137912939\bin\Debug\netcoreapp3.1\Bài 1.runtimeconfig.dev.json
+D:\Data\Project\Job_304747137912939\Job_304747137912939\bin\Debug\netcoreapp3.1\Bài 1.dll
+D:\Data\Project\Job_304747137912939\Job_304747137912939\bin\Debug\netcoreapp3.1\Bài 1.pdb
+D:\Data\Project\Job_304747137912939\Job_304747137912939\obj\Debug\netcoreapp3.1\Bài 1.AssemblyInfoInputs.cache
+D:\Data\Project\Job_304747137912939\Job_304747137912939\obj\Debug\netcoreapp3.1\Bài 1.AssemblyInfo.cs
+D:\Data\Project\Job_304747137912939\Job_304747137912939\obj\Debug\netcoreapp3.1\Bài 1.csproj.CoreCompileInputs.cache
+D:\Data\Project\Job_304747137912939\Job_304747137912939\obj\Debug\netcoreapp3.1\Bài 1.dll
+D:\Data\Project\Job_304747137912939\Job_304747137912939\obj\Debug\netcoreapp3.1\Bài 1.pdb
+D:\Data\Project\Job_304747137912939\Job_304747137912939\obj\Debug\netcoreapp3.1\Bài 1.genruntimeconfig.cache
